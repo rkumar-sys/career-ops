@@ -15,6 +15,12 @@ batch/tracker-additions/*.tsv
 jds/*
 !jds/.gitkeep
 
+# User CV and personal data
+cv.md
+article-digest.md
+interview-prep/*
+!interview-prep/.gitkeep
+
 # User config and customization (never auto-updated)
 config/profile.yml
 portals.yml
